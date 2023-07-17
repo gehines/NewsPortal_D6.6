@@ -1,0 +1,1 @@
+# NewsPortal_D6.6
